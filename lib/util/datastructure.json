@@ -1,0 +1,25 @@
+{
+  "name": "",
+  "description": "",
+  "type": "",
+  "industry": "",
+  "adress": {
+    "email": "",
+    "phone": "",
+    "country": "",
+    "city": "",
+    "PoBox": ""
+  },
+  "social_media": {
+    "face_book": "",
+    "twitter": "",
+    "telegram": "",
+    "linked_in": "",
+    "hullu": ""
+  },
+  "location": {
+    "latitude": "",
+    "longitude": "",
+    "altitude": ""
+  }
+}
